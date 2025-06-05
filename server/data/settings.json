@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "server",
+      "name": "Servers",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "printer",
+      "name": "Printers",
+      "color": "#10B981"
+    },
+    {
+      "id": "camera",
+      "name": "Cameras",
+      "color": "#F59E0B"
+    },
+    {
+      "id": "workstation",
+      "name": "Workstations",
+      "color": "#8B5CF6"
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "color": "#6B7280"
+    }
+  ]
+}
