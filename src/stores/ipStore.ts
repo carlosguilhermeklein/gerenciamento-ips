@@ -44,7 +44,7 @@ type IPState = {
   selectRange: (rangeId: string | null) => void;
 };
 
-const API_URL = 'http://localhost:3001/api';
+const API_URL = '/ips/api';
 
 export const useIPStore = create<IPState>((set, get) => ({
   ranges: [],
